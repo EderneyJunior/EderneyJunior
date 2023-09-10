@@ -1,6 +1,6 @@
 # Olá Pessoal :wave:
 
-Meu nome é Ederney, estou me formando como **Desenvolvedor Back-end na (cubos academy) em parceria com o ifood**, comecei os estudos de programação este ano, sou apixonado por futebol, programação, tecnologia e aprender coisas novas nesta área incrível.
+Meu nome é Ederney, estou me formando como **Desenvolvedor Back-end na (cubos academy) em parceria com o ifood**, comecei os estudos de programação este ano, sou apaixonado por futebol, programação, tecnologia e aprender coisas novas nesta área incrível.
 
 Este perfil foi criado para adicionar meus projetos e minha evolução na area do desenvolvimento.
 

@@ -1,6 +1,6 @@
 # Olá Pessoal :wave:
 
-Meu nome é Ederney, estou me formando como **Desenvolvedor Back-end na (cubos academy) em parceria com o ifood**, comecei os estudos de programação este ano, sou apaixonado por futebol, programação, tecnologia e aprender coisas novas nesta área incrível.
+Iniciei minha carreira no programa Potência Tech iFood, onde aprendi Back-end com JavaScript na Cubos Academy. Tenho conhecimentos em HTML e CSS, além de estar cursando Análise e Desenvolvimento de Sistemas na Anhanguera. Atualmente, estou me especializando em Node.js para avançar no desenvolvimento back-end e sigo me dedicando ao crescimento na área de tecnologia para futuramente ser um desenvolvedor full stack.
 
 Este perfil foi criado para adicionar meus projetos e minha evolução na area do desenvolvimento.
 
